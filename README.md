@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliZaib110
-- 👀 I’m interested in wordpress projects.
-- 🌱 I’m currently learning woo commerce.
+- 👀 I’m interested in Angular projects.
+- 🌱 I’m currently working on Angular.
 ![screenshot-www-alizaib-dev-cc-services-1615745366460](https://user-images.githubusercontent.com/73781431/120378033-587aea00-c337-11eb-87f1-85cd71708663.png)
 - 📫 How to reach me alizaibbuttar@outlook.com
 
