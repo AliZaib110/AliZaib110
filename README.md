@@ -9,20 +9,20 @@ I'm a passionate Frontend Developer with a knack for building user-friendly, res
 💡 Always excited to learn new technologies and improve my craft as a frontend developer.
 💬 Ask me about Angular, JavaScript, Tailwind CSS, Bootstrap, and how to build efficient web applications.
 
-🧰 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🧰 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=angular,js,html,ts,css,bootstrap,tailwind,postman,postgres,bitbucket,vscode,visualstudio,github )](https://skillicons.dev)
 
-🌱 ## Currently Exploring
+## 🌱 Currently Exploring
 🚀 Mastering the latest in Angular and diving deeper into javaScript to expand my frontend skills.
 📚 Learning more about backend development and exploring Node.js and Express to create full-stack applications.
 💻 Enhancing UI/UX skills and discovering new CSS frameworks for faster development.
 
-🏆 ## Achievements
+## 🏆 Achievements
 🌟 Successfully developed multiple web applications from scratch, integrating various APIs and ensuring performance optimization.
 🌟 Lead frontend development projects, delivering high-quality, scalable solutions.
 
-📬 ## Get in Touch
-Connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/ali-zaib-a46593170)
-Check out my work on GitHub
-Reach out via email: [Email](alizaibbuttar9@gmail.com)
-Thanks for visiting! Let's connect and build something amazing together. 🚀
+## 📬 Get in Touch
+-Connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/ali-zaib-a46593170)
+-Check out my work on GitHub
+-Reach out via email: [Email](alizaibbuttar9@gmail.com)
+-Thanks for visiting! Let's connect and build something amazing together. 🚀
