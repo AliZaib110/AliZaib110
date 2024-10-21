@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @AliZaib110
-- 👀 I’m interested in Angular projects.
-- 🌱 I’m currently working on Angular.
-![screenshot-www-alizaib-dev-cc-services-1615745366460](https://user-images.githubusercontent.com/73781431/120378033-587aea00-c337-11eb-87f1-85cd71708663.png)
-- 📫 How to reach me alizaibbuttar@outlook.com
+Hi, I'm Ali Zaib! 👋
+I'm a passionate Frontend Developer with a knack for building user-friendly, responsive web applications. My expertise lies in creating seamless user experiences using modern web technologies. With a strong foundation in Angular, JavaScript, Tailwind CSS, and Bootstrap, I strive to bring ideas to life with clean and efficient code.
 
-<!---
-AliZaib110/AliZaib110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+🌱 Currently honing my skills and working on exciting frontend projects that challenge me to grow as a developer.
+🏆 Proven experience in transforming complex designs into intuitive, responsive UIs that users love.
+🛠 Skilled in collaborating with backend teams to integrate APIs and enhance web application functionality.
+💡 Always open to learning new technologies and sharing knowledge with the developer community.
+💬 Ask me about Angular, JavaScript, Tailwind CSS, and building scalable web applications.
+
+🔧 Tech Stack
+Frontend: Angular, JavaScript, TypeScript, HTML, CSS
+Styling: Tailwind CSS, Bootstrap, SASS
+Version Control: Git, GitHub
+Tools: VS Code, Chrome DevTools, Figma
