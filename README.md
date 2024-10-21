@@ -1,9 +1,9 @@
 
-# Hi, I'm <Ali Zaib>! 👋
+# Hi, I'm Ali Zaib 👋
 I'm a passionate Frontend Developer with a knack for building user-friendly, responsive web applications. My expertise lies in creating seamless user experiences using modern web technologies. With a strong foundation in Angular, JavaScript, Tailwind CSS, and Bootstrap, I strive to bring ideas to life with clean and efficient code.
 
 
-🚀 ## About Me
+## 🚀 About Me
 🌱 I’m currently working as a Frontend Developer, building user-friendly web applications and collaborating with backend teams to integrate APIs.
 🛠 I specialize in transforming complex designs into responsive, intuitive interfaces that delight users.
 💡 Always excited to learn new technologies and improve my craft as a frontend developer.
