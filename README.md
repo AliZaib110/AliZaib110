@@ -9,6 +9,7 @@ I'm a passionate Frontend Developer with a knack for building user-friendly, res
 💡 Always excited to learn new technologies and improve my craft as a frontend developer.
 💬 Ask me about Angular, JavaScript, Tailwind CSS, Bootstrap, and how to build efficient web applications.
 🧰 Tech Stack
+## Tech Stack
 
 🌱 Currently Exploring
 🚀 Mastering the latest in Angular and diving deeper into javaScript to expand my frontend skills.
