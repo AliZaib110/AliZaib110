@@ -4,10 +4,10 @@ I'm a passionate Frontend Developer with a knack for building user-friendly, res
 
 
 ## 🚀 About Me
-🌱 I’m currently working as a Frontend Developer, building user-friendly web applications and collaborating with backend teams to integrate APIs.
-🛠 I specialize in transforming complex designs into responsive, intuitive interfaces that delight users.
-💡 Always excited to learn new technologies and improve my craft as a frontend developer.
-💬 Ask me about Angular, JavaScript, Tailwind CSS, Bootstrap, and how to build efficient web applications.
+- 🌱 I’m currently working as a Frontend Developer, building user-friendly web applications and collaborating with backend teams to integrate APIs.
+- 🛠 I specialize in transforming complex designs into responsive, intuitive interfaces that delight users.
+- 💡 Always excited to learn new technologies and improve my craft as a frontend developer.
+- 💬 Ask me about Angular, JavaScript, Tailwind CSS, Bootstrap, and how to build efficient web applications.
 
 ## 🧰 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=angular,js,html,ts,css,bootstrap,tailwind,postman,postgres,bitbucket,vscode,visualstudio,github )](https://skillicons.dev)
